@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/avn/Desktop/Algos1/Week5/Ass/**/*.jar"
+    ]
+}
